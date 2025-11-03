@@ -2,9 +2,9 @@
   "metadata": {
     "name": "Vozer",
     "author": "Nhocconsr",
-    "version": 5,
-    "source": "https://vozer.vn",
-    "regexp": "https://vozer.vn/(.*?)$",
+    "version": 6,
+    "source": "https://vozer.io",
+    "regexp": "https://vozer.io/(.*?)$",
     "description": "Truyện voz",
     "locale": "vi_VN",
     "language": "javascript",
