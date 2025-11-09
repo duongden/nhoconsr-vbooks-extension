@@ -429,7 +429,7 @@
         "name": "Vozer",
         "author": "Nhocconsr",
         "path": "https://raw.githubusercontent.com/lethituyen/vbooks-extension/master/vozer/plugin.zip",
-        "version": 6,
+        "version": 7,
         "source": "https://vozer.io",
         "icon": "https://raw.githubusercontent.com/lethituyen/vbooks-extension/master/vozer/icon.png",
         "description": "Truyện Voz."
